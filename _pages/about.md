@@ -15,14 +15,14 @@ I am an Standardization Engineer of video coding at **The Creative Life (TCL), S
 I obtained BS in IEE from **Shenzhen University** under the supervision of prof. [Miaohui Wang](https://charwill.github.io/).
 My recent interests include video compression, image processing and machine learning.
 
-<hr>
+<br>
 
 Documents
 ======
 **JVET Meeting**<br>
 AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84">JVET-AF0114</span> <br>
 
-<hr>
+<br>
 
 Publications
 ======
