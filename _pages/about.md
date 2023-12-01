@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,25 +18,24 @@ Currently, my recent interests include video compression, image processing and m
 Documents
 ======
 **JVET** 
-AHG12: Local-Boosting on Cross-Component Merge Mode<br>
-JVET-AF0114<br>
+AHG12: Local-Boosting on Cross-Component Merge Mode. <p style="color: #305C84">JVET-AF0114</p><br>
 
 Publications
 ======
-**Compression** 
+**Compression**<br>
 Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting<br>
-IEEE Transactions on Industrial Informatics (TII 2022)<br> [paper](https://ieeexplore.ieee.org/abstract/document/9669109) 
+<p style="color: #305C84"> IEEE Transactions on Industrial Informatics (TII 2022)</p> [paper](https://ieeexplore.ieee.org/abstract/document/9669109)<br> 
 
-**Quality Assessment** 
+**Quality Assessment**<br>
 MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment<br>
-IEEE International Conference on Visual Communications and Image Processing (VCIP 2023)<br> [paper](https://ieeexplore.ieee.org/abstract/document/10008864)
+<p style="color: #305C84"> IEEE International Conference on Visual Communications and Image Processing (VCIP 2023)</p> [paper](https://ieeexplore.ieee.org/abstract/document/10008864)<br> 
 
 S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild<br>
-ACM International Conference on Multimedia (MM 2022)<br> [paper](https://dl.acm.org/doi/abs/10.1145/3503161.35480833)
+<p style="color: #305C84"> ACM International Conference on Multimedia (MM 2022)</p>[paper](https://dl.acm.org/doi/abs/10.1145/3503161.35480833)<br> 
 
-**Model Optimization** 
+**Model Optimization**<br>
 ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring<br>
-IEEE Transactions on Industrial Informatics (TII 2023)<br> [paper](https://ieeexplore.ieee.org/abstract/document/10297567)
+<p style="color: #305C84"> IEEE Transactions on Industrial Informatics (TII 2023)</p>[paper](https://ieeexplore.ieee.org/abstract/document/10297567)<br> 
 
 Deep Human Pose Estimation via Self-guided Learning<br>
-Springer International Conference on Image and Graphics (ICIG 2021)<br> [paper](https://link.springer.com/chapter/10.1007/978-3-030-87358-5_21)
+<p style="color: #305C84"> Springer International Conference on Image and Graphics (ICIG 2021)</p>[paper](https://link.springer.com/chapter/10.1007/978-3-030-87358-5_21)<br> 
