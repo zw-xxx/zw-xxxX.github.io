@@ -17,7 +17,7 @@ Currently, my recent interests include video compression, image processing and m
 
 Documents
 ======
-**JVET**<br>
+**JVET Meeting**<br>
 AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84">JVET-AF0114</span> <br>
 
 Publications
