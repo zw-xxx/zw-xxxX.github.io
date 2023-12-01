@@ -22,6 +22,8 @@ Documents
 **JVET Meeting**<br>
 AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84">JVET-AF0114</span> <br>
 
+<hr>
+
 Publications
 ======
 **Compression -related**<br>
