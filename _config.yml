@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "TCL Researcher"
   location         : "Shenzhen, China"
-  employer         : "TCL"
+  employer         : ""
   pubmed           : ""
   googlescholar    : ""
   email            : "zhuowei.xu@tcl.com"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zw-xxx"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2222-158X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
