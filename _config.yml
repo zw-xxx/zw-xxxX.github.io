@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "TCL Researcher"
   location         : "Shenzhen, China"
-  employer         : ""
-  pubmed           : ""
-  googlescholar    : ""
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
   email            : "zhuowei.xu@tcl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
