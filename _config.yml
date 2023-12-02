@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhuowei XU"
 title_separator          : "-"
-name                     : &name "Zhuowei XU"
+name                     : &name "Homepage"
 description              : &description "Zhuowei XU's Homepage"
 url                      : https://zw-xxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
