@@ -12,8 +12,7 @@ redirect_from:
 About me
 ======
 I am an Standardization Engineer of video coding at **The Creative Life (TCL), Shenzhen**. 
-I obtained the B.E. and M.E. in Electronics and
-Information Engineering from **Shenzhen University** under the supervision of prof. [Miaohui Wang](https://charwill.github.io/).
+I obtained the B.E. and M.E. in Electronics and Information Engineering from **Shenzhen University** under the supervision of prof. [Miaohui Wang](https://charwill.github.io/).
 My recent interests include video compression, image processing and machine learning.
 
 <hr>
