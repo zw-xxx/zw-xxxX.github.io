@@ -32,7 +32,7 @@ Prices
 Skills
 ======
 * Python, Matlab, c++, c, Latex, etc
-* PyTorch、Tensorflow、Keras, etc
+* PyTorch, Tensorflow, Keras, etc
 * Mechine learning, image processing, etc
   * ONNX, etc
   * Mixed precision training, distributed training, etc
