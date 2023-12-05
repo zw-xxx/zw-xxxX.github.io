@@ -26,18 +26,20 @@ AHG12: Local-Boosting on Cross-Component Merge Mode. <span style="color: #305C84
 
 Publications
 ======
-**Compression -related**<br>
+## Compression -related
 Perceptually Quasi-Lossless Compression of Screen Content Data Via Visibility Modeling and Deep Forecasting<br>
 <span style="color: #305C84"> IEEE Transactions on Industrial Informatics (TII 2022)</span> [paper](https://ieeexplore.ieee.org/abstract/document/9669109)<br> 
 
-**Quality Assessment -related**<br>
+## Quality Assessment -related
 MSCI: A Multi-Source Composite Image Database for Compression Distortion Quality Assessment<br>
 <span style="color: #305C84"> IEEE International Conference on Visual Communications and Image Processing (VCIP 2023)</span> [paper](https://ieeexplore.ieee.org/abstract/document/10008864)<br> 
 
 S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild<br>
 <span style="color: #305C84"> ACM International Conference on Multimedia (MM 2022)</span> [paper](https://dl.acm.org/doi/abs/10.1145/3503161.35480833)<br> 
 
-**Model Optimization -related**<br>
+Two more under review
+
+## Model Optimization -related
 ReferPose: Distance Optimization-Based Reference Learning for Human Pose Estimation and Monitoring<br>
 <span style="color: #305C84"> IEEE Transactions on Industrial Informatics (TII 2023)</span> [paper](https://ieeexplore.ieee.org/abstract/document/10297567)<br> 
 
